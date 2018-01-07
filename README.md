@@ -7,6 +7,7 @@ A easy to use crm built in java.
 - Install Gradle
 	- https://gradle.org/install/
 - Provide the database connection properties in `src/main/resources/application.properties` file. 
+	- See the application.properties [reference](https://docs.spring.io/spring-boot/docs/current/reference/html/common-application-properties.html) in particular you'll be interested in the JPA section. 
 - Generate the tables/schemas for the database
 	- We only have a postgres schema which can be found `src/main/resources/schema.sql` 
 - Run `gradle wrapper` 
