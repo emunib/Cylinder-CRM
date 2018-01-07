@@ -12,6 +12,7 @@ A easy to use crm built in java.
 - Run `gradle wrapper` 
 - Run `./gradlew bootRun`
 - Open a browser to `localhost:8080`
+- Default admin user `admin@admin.com` is created with the password `p@ssw0rd123Me`
 
 ## Notes
 
